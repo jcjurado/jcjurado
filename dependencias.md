@@ -1,3 +1,4 @@
+```mermaid
 graph TD
   %% --- STOCK ---
   subgraph STOCK
@@ -51,3 +52,4 @@ graph TD
   VW_FT_RUBRO_FLETE --> FT_RUBRO_FLETE
   VW_FT_SHIPPING_CNV --> FT_SHIPPING_CNV
   VW_FT_EVALUACIONES_BBVA --> FT_EVALUACIONES_BBVA
+```
