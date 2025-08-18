@@ -1,5 +1,7 @@
+```mermaid
 graph LR
   VW_FT_STOCK --> DM_PRODUCTOS
   VW_FT_STOCK --> DM_STK_ESTADOS
   VW_FT_STOCK --> DM_SUCURSALES
   VW_FT_STOCK --> FT_STOCK
+```
